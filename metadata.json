@@ -1,0 +1,6 @@
+{
+  "name": "Chronos AI - Trợ Lý Sắp Lịch Thông Minh",
+  "description": "Hệ thống trợ lý AI phân rã công việc WBS và xếp lịch tự động né giờ bận với tỷ lệ chuyển đổi cao theo chuẩn BA & CRO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
